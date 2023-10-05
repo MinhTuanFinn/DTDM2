@@ -16,4 +16,5 @@ Hosting express node project on vercel
 ### Deployed on
 
 > [Link Deploy Exercise 8.1](https://cloud-computing-vku.vercel.app/home)
+
 > [Link Deploy Exercise 8.2 👉 Chưa Làm 👈]()
