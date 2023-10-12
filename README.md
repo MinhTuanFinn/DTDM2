@@ -27,4 +27,4 @@ Hosting express node project on vercel
 - ![Error Firebase Deploy](https://github.com/MinhTuanFinn/DTDM2/assets/72549676/dccc92e7-ea67-41f3-9121-9eae8533042d)
 
 
-> [Link Deploy Exercise 8.2 ❌]()
+> **Link Deploy Exercise 8.2 ❌**
